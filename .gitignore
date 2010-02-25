@@ -1,0 +1,17 @@
+*resharper.user
+
+[Dd]ebug/
+
+[Rr]elease/
+
+build/
+
+[Bb]in/
+
+[Oo]bj/
+
+*.suo
+.cache
+_ReSharper.*/
+*.user
+App_Data/
